@@ -10,7 +10,7 @@ This repository contains files for:
   - `LICENSE.md`
   - `README.md`
   - `.gitignore`
- 
+
 ### Notes and Resources
   - [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte) - wikipedia
   - [Edward Tufte](https://www.edwardtufte.com/tufte/) - personal site
@@ -31,6 +31,7 @@ This repository contains files for:
   - [SOC 880: Data Visualization](http://vissoc.co/index.html) - [Kieran Healy](https://kieranhealy.org)
   - [Butterick's Practical Typography](http://practicaltypography.com) - [Matthew Butterick](http://typographyforlawyers.com/about.html)
   - [Tufte's Tips for a Successful Presentations](https://www.edwardtufte.com/tufte/advocate_flatland2) - [Edward Tufte](https://www.edwardtufte.com/tufte/)
+  - [Presentation Zen: How to Design and Deliver Presentations Like a Pro](http://www.garrreynolds.com/Presentation/pdf/presentation_tips.pdf) - [Garr Reynolds](http://www.garrreynolds.com)
   
 ### About Christopher Prener, PhD
 [Christopher Prener](http://chrisprener.net) (Ph.D., Northeastern University, 2015) is an urban and medical sociologist with an interest in mixed methods research designs that incorporate spatial data. His dissertation examined the effect of neighborhood context and conditions on emergency medical services work, particularly with patients who have mental illnesses or substance use disorders. He is also part of a research team examining the effect of literacy on mental health service use and recovery. He is an Assistant Professor in the Department of Sociology and Anthropology at Saint Louis University. More details are available at [his website](http://www.chrisprener.net) and he can be contacted at [prenercg@slu.edu](mailto:prenercg@slu.edu).
