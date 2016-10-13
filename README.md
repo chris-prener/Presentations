@@ -12,15 +12,18 @@ This repository contains files for:
   - `.gitignore`
 
 ### Notes and Resources
+  - [The Bachrach Photo](https://commons.wikimedia.org/wiki/File:Crowd_of_citizens,_soldiers,_and_etc._with_Lincoln_at_Gettysburg._-_NARA_-_529085.jpg) - [David Bachrach](https://en.wikipedia.org/wiki/David_Bachrach)
+  - [Gettysburg Address PowerPoint Presentations](http://norvig.com/Gettysburg/) - [Peter Norvig](http://www.norvig.com)
   - [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte) - wikipedia
   - [Edward Tufte](https://www.edwardtufte.com/tufte/) - personal site
-  - [Gettysburg Address PowerPoint Presentations](http://norvig.com/Gettysburg/) - [Peter Norvig](http://www.norvig.com)
   - [Paul Rand](https://en.wikipedia.org/wiki/Paul_Rand) - wikipedia
   - [Paul Rand, the Visionary Who Showed Us That Design Matters](https://www.wired.com/2015/04/paul-rand-visionary-showed-us-design-matters/)
+  - [Sequoia Keynote Themes](https://github.com/chris-prener/sequoia_templates)
   - [Create and Save a PowerPoint Template](https://support.office.com/en-us/article/Create-and-save-a-PowerPoint-template-ee4429ad-2a74-4100-82f7-50f8169c8aca)
   - [Keynote for Mac: Create and Manage Themes](https://support.apple.com/kb/PH16967?locale=en_US)
   - [Your Friendly Guide to Colors in Data Visualization](https://lisacharlotterost.github.io/2016/04/22/Colors-for-DataVis/) - [Lisa Charlotte Rost](https://lisacharlotterost.github.io)
   - [ColorHexa.com](http://www.colorhexa.com)
+  - [Ishihara Test](https://en.wikipedia.org/wiki/Ishihara_test)
   - [Copyright Crash Course](http://guides.lib.utexas.edu/copyright) - University of Texas at Austin
   - [The Ultimate Guide to Finding Free, Legal Images Online](http://www.macworld.com/article/2899637/the-ultimate-guide-to-finding-free-legal-images-online.html)
   - [Chartjunk](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00040Z) - [Edward Tufte](https://www.edwardtufte.com/tufte/)
