@@ -5,11 +5,13 @@ These are resources related to a Sociology graduate seminar on presentations tha
 ### Repository Contents
 This repository contains files for:
   - `GettysburgAddress.md`
-  - `PresentationSlides.key`
   - `PresentationSlides.pdf`
   - `LICENSE.md`
   - `README.md`
   - `.gitignore`
+
+### Original Keynote Slides
+These cannot be added to the repository because of their final size. If you would like them please [email me](prenercg@slu.edu) or open up an issue.
 
 ### Notes and Resources
   - [The Bachrach Photo](https://commons.wikimedia.org/wiki/File:Crowd_of_citizens,_soldiers,_and_etc._with_Lincoln_at_Gettysburg._-_NARA_-_529085.jpg) - [David Bachrach](https://en.wikipedia.org/wiki/David_Bachrach)
