@@ -39,6 +39,7 @@ These cannot be added to the repository because of their final size. If you woul
     - [In Defense of Pie Charts](https://eagereyes.org/criticism/in-defense-of-pie-charts) - [Robert Kosara](https://eagereyes.org)
     - [39 Studies About Human Perception in 30 Minutes](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73#.664tzrmuf) - [Kennedy Elliott](https://twitter.com/kennelliott)
     - [SOC 880: Data Visualization](http://vissoc.co/index.html) - [Kieran Healy](https://kieranhealy.org)
+    - [KeepVid](http://keepvid.com)
     - [Butterick's Practical Typography](http://practicaltypography.com) - [Matthew Butterick](http://typographyforlawyers.com/about.html)
   
   4. Presentation Day
