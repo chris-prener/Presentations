@@ -28,6 +28,8 @@ These cannot be added to the repository because of their final size. If you woul
     - [Keynote for Mac: Create and Manage Themes](https://support.apple.com/kb/PH16967?locale=en_US)
     - [Your Friendly Guide to Colors in Data Visualization](https://lisacharlotterost.github.io/2016/04/22/Colors-for-DataVis/) - [Lisa Charlotte Rost](https://lisacharlotterost.github.io)
     - [ColorHexa.com](http://www.colorhexa.com)
+    - [Color Blindness Simulator](http://www.color-blindness.com/coblis-color-blindness-simulator/)
+    - [Tips for Designing Accessible Figures](http://www.somersault1824.com/tips-for-designing-scientific-figures-for-color-blind-readers/)
     - [Ishihara Test](https://en.wikipedia.org/wiki/Ishihara_test)
   
   3. Focus on Content
