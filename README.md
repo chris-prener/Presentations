@@ -4,8 +4,8 @@ These are resources related to a Sociology graduate seminar on presentations tha
 
 ### Repository Contents
 This repository contains files for:
-  - `GettysburgAddress.md`
-  - `PresentationSlides.pdf`
+  - `Handout.pdf`
+  - `Slides.pdf`
   - `LICENSE.md`
   - `README.md`
   - `.gitignore`
@@ -21,6 +21,7 @@ These cannot be added to the repository because of their final size. If you woul
   2. Design Matters
     - [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte) - wikipedia
     - [Edward Tufte](https://www.edwardtufte.com/tufte/) - personal site
+    - [Edward Tufte](http://libcat.slu.edu/search~S5/a?Tufte%2C+Edward+R.%2C+1942-&search_code=a) - Pius Library records
     - [Paul Rand](https://en.wikipedia.org/wiki/Paul_Rand) - wikipedia
     - [Paul Rand, the Visionary Who Showed Us That Design Matters](https://www.wired.com/2015/04/paul-rand-visionary-showed-us-design-matters/)
     - [Sequoia Keynote Themes](https://github.com/chris-prener/sequoia_templates)
