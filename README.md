@@ -1,6 +1,6 @@
 # Presentations
 
-These are resources related to a Sociology graduate seminar on presentations that I have given for the last two years at SLU.
+These are resources related to a Sociology graduate seminar on presentations that I have given for the last three years at SLU.
 
 ### Repository Contents
 This repository contains files for:
@@ -32,6 +32,8 @@ These cannot be added to the repository because of their final size. If you woul
     - [Color Blindness Simulator](http://www.color-blindness.com/coblis-color-blindness-simulator/)
     - [Tips for Designing Accessible Figures](http://www.somersault1824.com/tips-for-designing-scientific-figures-for-color-blind-readers/)
     - [Ishihara Test](https://en.wikipedia.org/wiki/Ishihara_test)
+    - [`colorblindr` Package for `R`](https://github.com/clauswilke/colorblindr) - will re-create your graphics in four variations of colorblindness
+    - [`viridis` Package for `R`](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) - offers colorblind friendly pallattes
   
   3. Focus on Content
     - [Copyright Crash Course](http://guides.lib.utexas.edu/copyright) - University of Texas at Austin
